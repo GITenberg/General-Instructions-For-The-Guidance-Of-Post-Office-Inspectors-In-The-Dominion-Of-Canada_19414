@@ -1,0 +1,30 @@
+_repo: General-Instructions-For-The-Guidance-Of-Post-Office-Inspectors-In-The-Dominion-Of-Canada_19414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Alexander
+    birthdate: 1822
+    deathdate: 1892
+    gutenberg_agent_id: '8656'
+    url: http://www.gutenberg.org/2009/agents/8656
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Campbell_%28Canadian_politician%29
+description: ''
+gutenberg_bookshelf: The Philatelic Digital Library Project
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcc 'F1001'
+- !lcsh 'Postal service -- Canada -- Handbooks, manuals, etc.'
+title: General Instructions For The Guidance Of Post Office Inspectors In The Dominion
+  Of Canada
+url: http://www.gutenberg.org/ebooks/19414
