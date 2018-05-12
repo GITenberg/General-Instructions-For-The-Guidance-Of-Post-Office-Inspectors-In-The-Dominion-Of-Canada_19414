@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8656
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Campbell_%28Canadian_politician%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19414#General-Instructions-For-The-Guidance-Of-Post-Office-Inspectors-In-The-Dominion-Of-Canada
 gutenberg_bookshelf: The Philatelic Digital Library Project
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
